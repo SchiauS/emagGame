@@ -1,0 +1,39 @@
+.logo>img{
+    width: 236px;
+    padding: 50px;
+}
+.wizard-title>img{
+    position: absolute;
+    margin-top: -244px;
+    margin-left: -96px;
+    width: 254px;
+}
+.swordsImg{
+    width: 160px;
+    margin-top: 232px;
+}
+.bg-success{
+    background-color: #7AC29A;
+}
+.bg-warning{
+    background-color: #F3BB45;
+}
+.bg-danger{
+    background-color: #EB5E28;
+}
+.btn-danger{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.gameoverTittle{
+    font-size: 62px;
+    font-weight: 700!important;
+}
+.roundContainer {
+    font-size: 53px;
+    padding-bottom: 0px;
+    margin-top: -32px;
+    text-align: center;
+    color: #ee161f;
+    font-weight: 600;
+}
